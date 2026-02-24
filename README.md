@@ -11,7 +11,7 @@ This script (or Jupyter notebook) will analyze particles from a given CryoSPARC 
 
 # Running
 ```bash
-python particle_distribution.py {job} {rawdatapath (optional)}")
+python particle_distribution.py {job} {rawdatapath (optional)}
 ```
 
 Examples (running from CryoSPARC project directory):
